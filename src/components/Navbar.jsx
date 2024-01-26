@@ -23,7 +23,7 @@ const Navbar = () => {
       >
       <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
 
-      <p className='text-white text-[18px] font-bold cursor-pointer'>Furqan <span className='sm:block hidden'>Qadri</span></p>
+      <p className='text-white text-[18px] font-bold cursor-pointer flex gap-2'>Furqan <span className='sm:block hidden'>Qadri</span></p>
 
     </Link>
 
